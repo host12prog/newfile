@@ -2,6 +2,7 @@
 newfile is a program designed to simplify making files in a Command Prompt much easier. Just type 1 command and your file is made!
 ## Side Notes
 * newfile is useless on Linux because it already has the "touch" command.
+* The same function can be done on Windows Batch.
 ## How to install
 An .exe file will come soon, but for now, just stick to the guide below.
 
